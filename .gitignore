@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+API.md
+Architecture.md
+Database.md
+Features.md
+PRD.md
+Roadmap.md
